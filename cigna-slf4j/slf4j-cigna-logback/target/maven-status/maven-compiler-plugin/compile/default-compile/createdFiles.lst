@@ -1,0 +1,3 @@
+org/slf4j/impl/CignaLoggerAdapter.class
+org/slf4j/impl/CignaLoggerFactory.class
+org/slf4j/impl/StaticLoggerBinder.class
